@@ -12,8 +12,6 @@
 [<img align="left" alt="Chris McCrowe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
----
-
 [website]: https://chrismccrowe.com
 [youtube]: https://www.youtube.com/user/ChrisMcCrowe
 [linkedin]: https://www.linkedin.com/in/chris-mccrowe-2795a028/
