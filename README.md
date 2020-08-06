@@ -28,4 +28,4 @@
 [website]: https://chrismccrowe.com
 [youtube]: https://www.youtube.com/user/ChrisMcCrowe
 [linkedin]: https://www.linkedin.com/in/chris-mccrowe-2795a028/
-[imdb]: https://www.imdb.com/name/nm6120143/?ref_=fn_al_nm_1
+[imdb]: http://www.imdb.me/chrismccrowe
