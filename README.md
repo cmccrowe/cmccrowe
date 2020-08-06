@@ -1,4 +1,4 @@
-### Hello, I'm Chris McCrowe [website] 👋
+### Hello, I'm Chris McCrowe. 👋
 
 - I am currectly working as a compositor at Industrial Light and Magic in Vancouver Canada. ⚙️💡 🧙🏻 
 - I enjoy learning about python and sharing with others 👨🏽‍💻⚡
