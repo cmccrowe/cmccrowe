@@ -15,7 +15,7 @@ I love learning about python, understanding how things work and sharing with oth
 ---
 <br/>
 
-### Find me here:
+### Connect:
 
 <!-- Social icons section -->
 <p align="center">
