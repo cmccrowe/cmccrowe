@@ -56,7 +56,7 @@ I love learning about python, understanding how things work and sharing with oth
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 -->
-<br/>
+
 
 ---
 
