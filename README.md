@@ -1,7 +1,11 @@
-### Chris McCrowe 👋
+# Hi, I'm Chris McCrowe 👋
 
-- I am currectly working as a senior compositor at Wētā FX. 
-- I enjoy learning about python and sharing with others 👨🏽‍💻⚡
+I work in the visual effects inductry on films and tv shows. My current title is senior compositor at Wētā FX. 
+The best thing about this career is that you are always learning and working colloratively with others. 
+
+
+Primarily, compositing is done in a progarm called Nuke, which is written in C++ and Python. Nuke has a built in script editor and you can pretty much control or automate anything with Python. 
+I love learning about python, understanding how things work and sharing with others 👨🏽‍💻⚡ 
 
 
 ### Connect with me:
