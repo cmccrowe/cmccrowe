@@ -13,9 +13,6 @@ I love learning about python, understanding how things work and sharing with oth
 <br/>
 
 ---
-
-<br/>
-
 ### 📺 Latest Demoreels
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Chris McCrowe - Senior Digital Compositor Showreel - 2024](https://ytcards.demolab.com/?id=LACk3xRt6yM&title=Chris+McCrowe+-+Senior+Digital+Compositor+Showreel+-+2024&lang=en&timestamp=1704676538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe - Senior Digital Compositor Showreel - 2024")](https://www.youtube.com/watch?v=LACk3xRt6yM)
