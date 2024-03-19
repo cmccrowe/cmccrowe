@@ -13,6 +13,19 @@ I love learning about python, understanding how things work and sharing with oth
 <br/>
 
 ---
+
+<br/>
+
+### 📺 Latest Demoreels
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Chris McCrowe - Senior Digital Compositor Showreel - 2024](https://ytcards.demolab.com/?id=LACk3xRt6yM&title=Chris+McCrowe+-+Senior+Digital+Compositor+Showreel+-+2024&lang=en&timestamp=1704676538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe - Senior Digital Compositor Showreel - 2024")](https://www.youtube.com/watch?v=LACk3xRt6yM)
+[![Chris Mccrowe - Digital Compositor Showreel 2020 Part 2 (LOCKDOWN)](https://ytcards.demolab.com/?id=AqLJoRKzYKg&title=Chris+Mccrowe+-+Digital+Compositor+Showreel+2020+Part+2+%28LOCKDOWN%29&lang=en&timestamp=1704675722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris Mccrowe - Digital Compositor Showreel 2020 Part 2 (LOCKDOWN)")](https://www.youtube.com/watch?v=AqLJoRKzYKg)
+[![Chris McCrowe: Digital Compositor Showreel - 2020](https://ytcards.demolab.com/?id=bJvLfSdbEIw&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2020&lang=en&timestamp=1605328673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2020")](https://www.youtube.com/watch?v=bJvLfSdbEIw)
+[![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 2)](https://ytcards.demolab.com/?id=5uoJkNCtY9E&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+2%29&lang=en&timestamp=1580287955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 2)")](https://www.youtube.com/watch?v=5uoJkNCtY9E)
+[![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)](https://ytcards.demolab.com/?id=WO7ukfSXHgE&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+1%29&lang=en&timestamp=1569014917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)")](https://www.youtube.com/watch?v=WO7ukfSXHgE)
+[![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
+<!-- END YOUTUBE-CARDS -->
+
 <br/>
 
 ### Connect:
@@ -52,15 +65,7 @@ I love learning about python, understanding how things work and sharing with oth
 
 ---
 
-### 📺 Latest Demoreels
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Chris McCrowe - Senior Digital Compositor Showreel - 2024](https://ytcards.demolab.com/?id=LACk3xRt6yM&title=Chris+McCrowe+-+Senior+Digital+Compositor+Showreel+-+2024&lang=en&timestamp=1704676538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe - Senior Digital Compositor Showreel - 2024")](https://www.youtube.com/watch?v=LACk3xRt6yM)
-[![Chris Mccrowe - Digital Compositor Showreel 2020 Part 2 (LOCKDOWN)](https://ytcards.demolab.com/?id=AqLJoRKzYKg&title=Chris+Mccrowe+-+Digital+Compositor+Showreel+2020+Part+2+%28LOCKDOWN%29&lang=en&timestamp=1704675722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris Mccrowe - Digital Compositor Showreel 2020 Part 2 (LOCKDOWN)")](https://www.youtube.com/watch?v=AqLJoRKzYKg)
-[![Chris McCrowe: Digital Compositor Showreel - 2020](https://ytcards.demolab.com/?id=bJvLfSdbEIw&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2020&lang=en&timestamp=1605328673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2020")](https://www.youtube.com/watch?v=bJvLfSdbEIw)
-[![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 2)](https://ytcards.demolab.com/?id=5uoJkNCtY9E&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+2%29&lang=en&timestamp=1580287955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 2)")](https://www.youtube.com/watch?v=5uoJkNCtY9E)
-[![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)](https://ytcards.demolab.com/?id=WO7ukfSXHgE&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+1%29&lang=en&timestamp=1569014917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)")](https://www.youtube.com/watch?v=WO7ukfSXHgE)
-[![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
-<!-- END YOUTUBE-CARDS -->
+
 
 [website]: https://chrismccrowe.com
 [youtube]: https://www.youtube.com/user/ChrisMcCrowe
