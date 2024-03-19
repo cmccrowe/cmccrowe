@@ -1,6 +1,7 @@
 # Hi, I'm Chris McCrowe 👋
 **`SENIOR COMPOSITOR`**
 
+---
 I work in the visual effects inductry on films and tv shows. My current title is senior compositor at Wētā FX. <br/>
 The best thing about this career is that you are always learning and working colloratively with others. 
 
