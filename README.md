@@ -19,13 +19,13 @@ I love learning about python, understanding how things work and sharing with oth
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://www.chrismccrowe.com/"><img width="32px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/crow-192.png"/></a>
+   <a href="https://www.chrismccrowe.com/"><img width="128px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/crow-192.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA"><img width="32px" alt="Youtube" title="Youtube" src="https://www.chrismccrowe.com/img/social/youtube_64.png"/></a>
+   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA"><img width="128px" alt="Youtube" title="Youtube" src="https://www.chrismccrowe.com/img/social/youtube_64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/chris-mccrowe-2795a028/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.chrismccrowe.com/img/social/linkedin_64.png"/></a>
+  <a href="https://www.linkedin.com/in/chris-mccrowe-2795a028/"><img width="128px" alt="LinkedIn" title="LinkedIn" src="https://www.chrismccrowe.com/img/social/linkedin_64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.imdb.com/name/nm6120143/"><img height="32" alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/social/imdb_64.png"></a>
+  <a href="https://www.imdb.com/name/nm6120143/"><img height="128" alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/social/imdb_64.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
  
 </p>
