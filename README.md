@@ -53,13 +53,8 @@ I love learning about python, understanding how things work and sharing with oth
 ---
 
 ### 📺 Latest Demoreels
-<!-- YOUTUBE:START -->
-- [Chris McCrowe: Digital Compositor - 2019 (Part 2)](https://www.youtube.com/watch?v=5uoJkNCtY9E)
-- [Chris McCrowe: Digital Compositor - 2019 (Part 1)](https://www.youtube.com/watch?v=WO7ukfSXHgE)
-- [Chris McCrowe: Digital Compositor - 2018](https://www.youtube.com/watch?v=f-ve4-vR_1M)
-- [Chris McCrowe:  Silence Reel - 2017](https://www.youtube.com/watch?v=KG2WWGlhI8o)
-- [Chris McCrowe: Kong Skull Island Reel - 2017](https://www.youtube.com/watch?v=PyWHy6x2CHA)
-<!-- YOUTUBE:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 [website]: https://chrismccrowe.com
 [youtube]: https://www.youtube.com/user/ChrisMcCrowe
