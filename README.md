@@ -1,4 +1,4 @@
-### Hello, I'm Chris McCrowe. 👋
+### Chris McCrowe 👋
 
 - I am currectly working as a senior compositor at Wētā FX. 
 - I enjoy learning about python and sharing with others 👨🏽‍💻⚡
