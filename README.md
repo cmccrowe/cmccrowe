@@ -16,7 +16,7 @@ I love learning about python, understanding how things work and sharing with oth
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/chris-mccrowe-2795a028/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.chrismccrowe.com/img/social/linkedin_64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.imdb.com/name/nm6120143/"><img alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/social/imdb_64.png"></a>
+  <a href="https://www.imdb.com/name/nm6120143/"><img height="32" alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/social/imdb_64.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  
 </p>
