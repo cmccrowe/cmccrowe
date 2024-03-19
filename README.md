@@ -21,8 +21,7 @@ I love learning about python, understanding how things work and sharing with oth
 [![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
 <!-- END YOUTUBE-CARDS -->
 
-<br/>
-
+---
 ### Connect:
 
 <!-- Social icons section -->
