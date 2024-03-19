@@ -6,7 +6,8 @@ I work in the visual effects inductry on films and tv shows. My current title is
 The best thing about this career is that you are always learning and working colloratively with others. 
 
 
-Primarily, compositing is done in a progarm called Nuke, which is written in C++ and Python. Nuke has a built in script editor and you can pretty much control or automate anything with python.
+Primarily, compositing is done in a progarm called Nuke, which is written in C++ and Python.<br/>
+Nuke has a built in script editor and you can pretty much control or automate anything with python.<br/>
 I love learning about python, understanding how things work and sharing with others 👨🏽‍💻⚡ 
 
 <!-- Social icons section -->
