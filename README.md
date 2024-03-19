@@ -11,7 +11,7 @@ I love learning about python, understanding how things work and sharing with oth
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://www.chrismccrowe.com/"><img width="32px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/crow-32.png"/></a>
+   <a href="https://www.chrismccrowe.com/"><img width="32px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/crow-192.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA"><img width="32px" alt="Youtube" title="Youtube" src="https://www.chrismccrowe.com/img/social/youtube_64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
