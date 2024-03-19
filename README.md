@@ -42,6 +42,7 @@ I love learning about python, understanding how things work and sharing with oth
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!--
 <p align="center">
   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -54,7 +55,7 @@ I love learning about python, understanding how things work and sharing with oth
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-
+-->
 <br/>
 
 ---
