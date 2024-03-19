@@ -14,7 +14,9 @@ I love learning about python, understanding how things work and sharing with oth
 
 ---
 <br/>
+
 ### Find me here:
+
 <!-- Social icons section -->
 <p align="center">
    <a href="https://www.chrismccrowe.com/"><img width="32px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/crow-192.png"/></a>
