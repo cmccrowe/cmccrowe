@@ -7,7 +7,7 @@ The best thing about this career is that you are always learning and working col
 
 
 Primarily, compositing is done in a progarm called Nuke, which is written in C++ and Python.<br/>
-Nuke has a built in python script editor and you can pretty much control or automate anything with python.<br/>
+Nuke has a built in python script editor and you can pretty much control or automate anything in the application with python.<br/>
 I love learning about python, understanding how things work and sharing with others 👨🏽‍💻⚡
 
 ---
