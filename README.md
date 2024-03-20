@@ -20,19 +20,19 @@ I love learning about python, understanding how things work and sharing with oth
 [![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)](https://ytcards.demolab.com/?id=WO7ukfSXHgE&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+1%29&lang=en&timestamp=1569014917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)")](https://www.youtube.com/watch?v=WO7ukfSXHgE)
 [![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
 <!-- END YOUTUBE-CARDS -->
-<!--<p align="center">
+<p align="center">
 <br />
     <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA">
+ <!--   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
      <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>-->
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>-->
+</p>
 
 ---
 
