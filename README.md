@@ -30,7 +30,9 @@ I love learning about python, understanding how things work and sharing with oth
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
+
 ---
+
 ### Connect:
 
 <!-- Social icons section -->
