@@ -25,7 +25,7 @@ I love learning about python, understanding how things work and sharing with oth
     <a href="https://www.youtube.com/ChrisMcCrowe?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxz51-sy9y_XTngzrAjJ4mA?color=b00c00&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=gray"/></a> 
     <a href="https://www.youtube.com/ChrisMcCrowe"><img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxz51-sy9y_XTngzrAjJ4mA?color=bf8900&logo=eye&logoColor=white&style=for-the-badge&labelColor=gray"/></a> 
     <a href="https://github.com/cmccrowe?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cmccrowe?color=blue&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/cmccrowe?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cmccrowe?color=green&style=for-the-badge&labelColor=darkslategray&logo=star"/></a>
+    <a href="https://github.com/cmccrowe?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cmccrowe?color=green&style=for-the-badge&labelColor=DarkSlateGray&logo=star"/></a>
 </p>
 
 ---
