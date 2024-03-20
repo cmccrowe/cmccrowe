@@ -30,8 +30,8 @@ I love learning about python, understanding how things work and sharing with oth
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cmccrowe?color=blue&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=blue"/></a>
       <a href="https://github.com/cmccrowe?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cmccrowe?color=green&style=for-the-badge&labelColor=gray&logo=star"/></a>
-      <a href="https://github.com/cmccrowe/Simple-View-Counter">
-          <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+      <a href="https://github.com/cmccrowe/cmccrowe">
+          <img alt="views" title="GitHub profile views" src="https://chrismccrowe.com/php/index.php"/></a>
 </p>
 
 ---
