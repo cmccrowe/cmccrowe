@@ -23,7 +23,7 @@ I love learning about python, understanding how things work and sharing with oth
 <p align="center">
 <br />
     <a href="https://www.youtube.com/ChrisMcCrowe?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxz51-sy9y_XTngzrAjJ4mA?color=b00c00&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxz51-sy9y_XTngzrAjJ4mA?color=b00c00&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=gray"/></a> 
       <a href="https://www.youtube.com/ChrisMcCrowe">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxz51-sy9y_XTngzrAjJ4mA?color=bf8900&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/cmccrowe?tab=followers">
