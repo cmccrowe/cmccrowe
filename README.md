@@ -38,13 +38,13 @@ I love learning about python, understanding how things work and sharing with oth
 
 <!-- Social icons section -->
 <p align="center">
-   <a href="https://www.chrismccrowe.com/"><img width="64px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/github/crow.png"/></a>
+   <a href="https://www.chrismccrowe.com/"><img width="64px" alt="Website" title="CHRISMCCROWE.COM" src="https://www.chrismccrowe.com/img/github/crow_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA"><img width="64px" alt="Youtube" title="Youtube" src="https://www.chrismccrowe.com/img/github/youtube.png"/></a>
+   <a href="https://www.youtube.com/channel/UCxz51-sy9y_XTngzrAjJ4mA"><img width="64px" alt="Youtube" title="Youtube" src="https://www.chrismccrowe.com/img/github/youtube_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/chris-mccrowe-2795a028/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://www.chrismccrowe.com/img/github/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/chris-mccrowe-2795a028/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://www.chrismccrowe.com/img/github/linkedin_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.imdb.com/name/nm6120143/"><img height="64" alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/github/imdb_200.png"></a>
+  <a href="https://www.imdb.com/name/nm6120143/"><img height="64" alt="IMDB" title="IMDB" src="https://www.chrismccrowe.com/img/github/imdb_black.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
  
 </p>
