@@ -21,9 +21,7 @@ I love learning about python, understanding how things work and sharing with oth
 [![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
 <!-- END YOUTUBE-CARDS -->
 <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
-    <br />
+<br />
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
