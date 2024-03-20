@@ -20,8 +20,11 @@ I love learning about python, understanding how things work and sharing with oth
 [![Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)](https://ytcards.demolab.com/?id=WO7ukfSXHgE&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2019+%28Part+1%29&lang=en&timestamp=1569014917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2019 (Part 1)")](https://www.youtube.com/watch?v=WO7ukfSXHgE)
 [![Chris McCrowe: Digital Compositor Showreel - 2018](https://ytcards.demolab.com/?id=f-ve4-vR_1M&title=Chris+McCrowe%3A+Digital+Compositor+Showreel+-+2018&lang=en&timestamp=1564038054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chris McCrowe: Digital Compositor Showreel - 2018")](https://www.youtube.com/watch?v=f-ve4-vR_1M)
 <!-- END YOUTUBE-CARDS -->
- <br />
-    <a href="https://www.youtube.com/channelUCxz51-sy9y_XTngzrAjJ4mA?sub_confirmation=1">
+<p align="center">
+    Youtube stats badges for your Github profile README
+    <br />
+    <br />
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
