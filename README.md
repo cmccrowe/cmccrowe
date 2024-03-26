@@ -2,7 +2,7 @@
 **`SENIOR COMPOSITOR`**
 
 ---
-I work in visual effect on films and tv shows. My current title is senior compositor at Wētā FX. <br/>
+I work in visual effect on films and tv shows. My current title is senior compositor. <br/>
 The best thing about this career is that you are always learning and working colloratively with others. 
 
 
