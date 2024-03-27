@@ -1,4 +1,4 @@
-# Hi, I'm Chris McCrowe 👋
+# Hello, 👋
 **`SENIOR COMPOSITOR`**
 
 ---
