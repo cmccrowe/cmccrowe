@@ -3,7 +3,7 @@
 
 ---
 I work in visual effect on films and tv shows. My current title is senior compositor. <br/>
-The best thing about this career is that you are always learning and working colaboratively with others. 
+The best thing about this career is that you are always learning and working collaboratively with others. 
 
 
 Primarily, compositing is done in a progarm called Nuke, which is written in C++ but<br/>
