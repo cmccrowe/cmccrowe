@@ -1,14 +1,3 @@
-# Hello, 👋
-**`SENIOR COMPOSITOR`**
-
----
-I work in visual effect on films and tv shows. My current title is senior compositor. <br/>
-The best thing about this career is that you are always learning and working collaboratively with others. 
-
-
-Primarily, compositing is done in a progarm called Nuke, which is written in C++ but<br/>
-it has a built in python script editor and you can pretty much control or automate anything in the application with python.<br/>
-I love learning about python, understanding how things work and sharing with others 👨🏽‍💻⚡
 
 ---
 ### 📺 Latest Demoreels
